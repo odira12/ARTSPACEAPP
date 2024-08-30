@@ -2,7 +2,7 @@
 package com.example.artspace
 
 import android.os.Parcelable
-import kotlinx.parcelize.Parcelize
+import kotlinx.Parcelize.Parcelize
 
 @Parcelize
 data class Artwork(

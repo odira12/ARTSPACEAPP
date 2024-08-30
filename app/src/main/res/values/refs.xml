@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="BlackAirforce1">@drawable/BlackAirforce1</drawable>
+    <drawable name="WhiteAirforce2">@drawable/WhiteAirforce2</drawable>
+    <drawable name="CampusShoes">@drawable/CampusShoes</drawable>
+</resources>

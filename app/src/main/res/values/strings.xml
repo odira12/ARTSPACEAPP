@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Art Space App</string>
+    <string name="app_name">Saloan Hub</string>
+
+    <!-- New strings for shoes -->
+    <string name="liz_3">butterfly style </string>
+    <string name="liz_4">curls style </string>
+    <string name="liz_5">line braids</string>
+
+    <!-- Strings for buttons -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="curlsstyle">curlsstyle</string>
+    <string name="linebraids">linebraids</string>
+    <string name="butterflystyle">butterflystyle</string>
+
 </resources>
